@@ -1,0 +1,9 @@
+com\jpmc\enrich\repo\TradeRequest.class
+com\jpmc\enrich\service\SettlementEnrichService.class
+com\jpmc\enrich\dao\TradeRequestRepository.class
+com\jpmc\enrich\Application.class
+com\jpmc\enrich\ctrl\SettlementEnrichController.class
+com\jpmc\enrich\common\SSIReference.class
+com\jpmc\enrich\common\SettlementMsg.class
+com\jpmc\enrich\service\SettlementEnrichServiceImpl.class
+com\jpmc\enrich\repo\SSIReferenceRepository.class
